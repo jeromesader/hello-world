@@ -1,2 +1,4 @@
 # hello-world
-just saying hi
+just saying hi 	
+
+learning how to commit changes
